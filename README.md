@@ -1,7 +1,7 @@
 # MSD-BootLoader
 Black Pill Mass Storage Device BootLoaders
 
-LoadeR ViTa - 16K Virtual FAT Table
+LoadeR ViTa - 16K Virtual FAT Table;
 Start Adress for User code: 0x08004000
 Pressing KEY and connect to USB for BootLoader start
 The new Interrupt Vector Table is already set up before the jump
